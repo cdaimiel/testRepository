@@ -1,0 +1,2 @@
+id_proveedor|nombre|fecha_alta|id_cliente
+3|Redbull|17/07/2002|6

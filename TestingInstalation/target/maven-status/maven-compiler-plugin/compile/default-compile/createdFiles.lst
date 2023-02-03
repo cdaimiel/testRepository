@@ -1,0 +1,6 @@
+com\prueba\model\Proveedor.class
+com\prueba\principal\Main.class
+com\prueba\dao\impl\ProveedorDAOImpl.class
+com\prueba\util\FileGenerator.class
+com\prueba\conection\ConexionBBDD.class
+com\prueba\dao\ProveedorDAO.class
